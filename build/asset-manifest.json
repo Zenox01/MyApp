@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/IslamCheck-Homepage/static/css/main.615cc2a4.chunk.css",
+    "main.js": "/IslamCheck-Homepage/static/js/main.d14718f5.chunk.js",
+    "main.js.map": "/IslamCheck-Homepage/static/js/main.d14718f5.chunk.js.map",
+    "runtime~main.js": "/IslamCheck-Homepage/static/js/runtime~main.d69e7956.js",
+    "runtime~main.js.map": "/IslamCheck-Homepage/static/js/runtime~main.d69e7956.js.map",
+    "static/js/2.820a8946.chunk.js": "/IslamCheck-Homepage/static/js/2.820a8946.chunk.js",
+    "static/js/2.820a8946.chunk.js.map": "/IslamCheck-Homepage/static/js/2.820a8946.chunk.js.map",
+    "index.html": "/IslamCheck-Homepage/index.html",
+    "precache-manifest.6d3834970d5abc54e3affe40d4b8910c.js": "/IslamCheck-Homepage/precache-manifest.6d3834970d5abc54e3affe40d4b8910c.js",
+    "service-worker.js": "/IslamCheck-Homepage/service-worker.js",
+    "static/css/main.615cc2a4.chunk.css.map": "/IslamCheck-Homepage/static/css/main.615cc2a4.chunk.css.map",
+    "static/media/herobis.png": "/IslamCheck-Homepage/static/media/herobis.affcfe9e.png",
+    "static/media/heroiqr.png": "/IslamCheck-Homepage/static/media/heroiqr.56ea9599.png"
+  }
+}
